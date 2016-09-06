@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  2 SEP 2016 14:17
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  4 SEP 2016 23:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -73,7 +73,14 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-(./abst.aux)
+(./abst.aux
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+)
 \openout1 = `abst.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
@@ -96,12 +103,14 @@ LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 17.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 16.60605pt on input line 17.
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 17.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 11.53198pt on input line 17.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <17.28> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 17.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 17.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -112,21 +121,64 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 18.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 21.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 21.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 21.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 21.
+File: MiniCluster.png Graphic file (type bmp)
+ <MiniCluster.png>
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 37.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 37.
+File: small_cluster_slab.png Graphic file (type bmp)
+ <small_cluster_slab.png>
+Overfull \hbox (1.06685pt too wide) in paragraph at lines 55--56
+ [][] 
+ []
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
+File: small_cluster.eps Graphic file (type eps)
+<small_cluster.eps>
+Overfull \hbox (1.06685pt too wide) in paragraph at lines 61--62
+ [][] 
+ []
 
- [1
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 62.
+
+Underfull \hbox (badness 2189) in paragraph at lines 62--62
+ []\JY1/mc/m/n/9 図 \OT1/cmr/m/n/9 3 L1$[]$ \JY1/mc/m/n/9 クラスタ ーと 
+ []
 
 
-]
-(./abst.aux) ) 
+Overfull \hbox (23.99998pt too wide) in paragraph at lines 52--66
+[][][][] 
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 74--75
+\OT1/cmr/m/n/10 M. Kiy-ohara, and S. R. Nishi-tani: Mater.Trans.,
+ []
+
+[1
+
+
+] (./abst.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 931 strings out of 493693
- 11409 string characters out of 6149787
- 72193 words of memory out of 5000000
- 4534 multiletter control sequences out of 15000+600000
- 12350 words of font info for 53 fonts, out of 8000000 for 9000
+ 963 strings out of 493693
+ 11880 string characters out of 6149787
+ 73193 words of memory out of 5000000
+ 4555 multiletter control sequences out of 15000+600000
+ 14342 words of font info for 62 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,7n,21p,762b,245s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,21p,405b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abst.dvi (1 page, 5200 bytes).
+Output written on abst.dvi (1 page, 7536 bytes).
