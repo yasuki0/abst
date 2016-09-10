@@ -1,10 +1,10 @@
-This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  9 SEP 2016 10:10
+This is e-pTeX, Version 3.14159265-p3.7-160201-2.6 (utf8.euc) (TeX Live 2016) (preloaded format=platex 2016.8.30)  10 SEP 2016 20:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**abst.tex
-(./abst.tex
+**yamamoto.tex
+(./yamamoto.tex
 pLaTeX2e <2016/05/07> (based on LaTeX2e <2016/03/31>)
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/platex/jsclasses/jsarticle.cls
@@ -73,15 +73,8 @@ Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 \Gin@req@height=\dimen122
 \Gin@req@width=\dimen123
 )
-(./abst.aux
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-)
-\openout1 = `abst.aux'.
+No file yamamoto.aux.
+\openout1 = `yamamoto.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
 LaTeX Font Info:    ... okay on input line 13.
@@ -121,6 +114,17 @@ LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 18.
 LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
 (Font)              scaled to size 11.53198pt on input line 18.
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 21.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 21.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 21.
+
+LaTeX Warning: Citation `kiyohara' on page 1 undefined on input line 21.
+
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 22.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -129,14 +133,24 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 6.72699pt on input line 22.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 4.805pt on input line 22.
+
+LaTeX Warning: Citation `sakamoto' on page 1 undefined on input line 22.
+
 File: lpso.png Graphic file (type bmp)
- <lpso.png>
+<lpso.png>
 LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 31.
 LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 (Font)              scaled to size 8.64899pt on input line 31.
+
+
+LaTeX Warning: Citation `kiyohara' on page 1 undefined on input line 37.
+
+
+LaTeX Warning: Citation `okuda' on page 1 undefined on input line 38.
+
 File: small_cluster_slab.png Graphic file (type bmp)
- <small_cluster_slab.png>
+<small_cluster_slab.png>
 Overfull \hbox (1.06685pt too wide) in paragraph at lines 56--57
  [][] 
  []
@@ -159,29 +173,24 @@ Overfull \hbox (23.99998pt too wide) in paragraph at lines 53--67
 [][][][] 
  []
 
-LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 77.
-LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 77.
-LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 77.
-LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
-(Font)              scaled to size 9.60999pt on input line 77.
 [1
 
 
-] (./abst.aux)
+] (./yamamoto.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 967 strings out of 493693
- 11901 string characters out of 6149787
+ 965 strings out of 493693
+ 11911 string characters out of 6149787
  73193 words of memory out of 5000000
  4558 multiletter control sequences out of 15000+600000
  14931 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,10n,21p,405b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,10n,22p,409b,462s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on abst.dvi (1 page, 7172 bytes).
+Output written on yamamoto.dvi (1 page, 7180 bytes).
